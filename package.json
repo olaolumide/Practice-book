@@ -1,0 +1,24 @@
+{
+  "name": "display-selected-value",
+  "version": "1.0.0",
+  "description": "Practice-book",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olaolumide/Practice-book.git"
+  },
+  "keywords": [
+    "Change",
+    "the",
+    "world"
+  ],
+  "author": "Olaide Olumide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olaolumide/Practice-book/issues"
+  },
+  "homepage": "https://github.com/olaolumide/Practice-book#readme"
+}
